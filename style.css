@@ -1,7 +1,8 @@
 .alpha{
     color: white;
     background-color: black;
-    margin: 50%;
+    margin-left: 200px;
+    margin-right: 200px;
     border: 5px solid yellow;
     border-radius: 15px;
     text-align: center;
